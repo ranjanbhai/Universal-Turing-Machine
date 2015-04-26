@@ -1,0 +1,3 @@
+M1 - Sample  (a^m b^n c^o)
+M2 - WCWR
+M3 - WCW
