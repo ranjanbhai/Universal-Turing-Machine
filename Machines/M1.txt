@@ -1,0 +1,8 @@
+0 a a R 0
+0 b b R 1
+0 c c R NO
+1 b b R 1
+1 c c R 2
+1 a a R NO
+2 c c R 2
+2 * * L YES
